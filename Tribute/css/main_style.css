@@ -1,0 +1,11 @@
+body {
+	margin: 5px;
+	padding : 10px; 
+    /*  for old browsers */
+    background: -webkit-linear-gradient(to left, #4568DC, #B06AB3);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #9796f0, #fbc7d4);
+}
+
+
+
