@@ -4,13 +4,14 @@
 
 - [Portfolio Page](https://github.com/krishdu/HTML-BOOTSTRAP/tree/master/Portfolio)
 - [Tribute Page - A. P. J. Abdul Kalam](https://github.com/krishdu/HTML-BOOTSTRAP/tree/master/Tribute)
+- [Feedback Page](https://github.com/krishdu/HTML-BOOTSTRAP/tree/master/Feedback)
 
 
 ```
 Portfolio Page
 ```
 <p align="center">
-<img alt="GIF" src="https://github.com/krishdu/HTML-BOOTSTRAP/blob/master/portfolio-gif-bootstrap.gif?raw=true" width="800" height="400"/>
+<img alt="GIF" src="https://github.com/krishdu/HTML-BOOTSTRAP/blob/master/portfolio-bootstrap-gif.gif?raw=true" width="800" height="400"/>
 </p>
 
 
@@ -18,9 +19,15 @@ Portfolio Page
 Tribute Page - A. P. J. Abdul Kalam
 ```
 <p align="center">
-<img alt="GIF" src="https://github.com/krishdu/HTML-BOOTSTRAP/blob/master/tribute-page-gif-bootstrap.gif?raw=true" width="800" height="400"/>
+<img alt="GIF" src="https://github.com/krishdu/HTML-BOOTSTRAP/blob/master/tribute-page-bootstrap-gif.gif?raw=true" width="800" height="400"/>
 </p>
 
+```
+Feedback Page
+```
+<p align="center">
+<img alt="GIF" src="https://github.com/krishdu/HTML-BOOTSTRAP/blob/master/feedback-gif.gif?raw=true" width="800" height="400"/>
+</p>
 
 
  
